@@ -1,0 +1,17 @@
+body {
+  background-image: url("https://e7.pngegg.com/pngimages/539/818/png-clipart-paper-sheet-paper-sheet.png");
+  background-repeat: no-repeat;
+  background-size: 600px;
+  background-position: left;
+}
+
+ul,
+ol,
+h1,
+h2 {
+  margin-left: 65px;
+}
+
+li {
+  font-size: 24px;
+}
